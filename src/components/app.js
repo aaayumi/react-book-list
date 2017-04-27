@@ -13,11 +13,10 @@ export default class App extends Component {
         <Grid>
         <Row>
         <Col xs={12} md={8}>
-     
 
-       <BookDetail /> </Col>
+        <BookDetail /> </Col>
 
-         <Col xs={12} md={4}><BookList /></Col>
+         <Col lg={12} xs={4}><BookList /></Col>
         
         </Row>
         </Grid>
