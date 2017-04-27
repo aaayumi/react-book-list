@@ -8,11 +8,12 @@ class BookDetail extends Component {
         }
 
         return (
-
+         
         <div className="bookinfo">
         <h3 className="title">{this.props.book.title}</h3>
-        <div>{this.props.book.description}</div>
-        <div>{this.props.book.rating}</div>
+        <div> Description: </div>
+        <div className="description">{this.props.book.description}</div>
+        <div className="rating">Rating: {this.props.book.rating}</div>
         </div>
         );
     }

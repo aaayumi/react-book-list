@@ -1,0 +1,36 @@
+/* title */
+.container h1 {
+	margin-top: 40px;
+}
+
+/* book list */
+
+.container ul  {
+	 margin-top: 40px;
+     
+}
+
+.container  ul li {
+    border: 2px solid black;
+
+}
+
+
+/* book details */
+
+.bookinfo {
+margin-top: 40px;
+padding: 20px 20px 20px 20px;
+border: 1px solid black;
+}
+
+.title {
+	border: 1px solid black;
+	padding: 5px 5px 5px 5px;
+}
+
+.rating {
+	margin-top:20px;
+	font-weight: bold;
+	font-size: 20px;
+}
