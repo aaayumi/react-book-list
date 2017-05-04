@@ -1,7 +1,6 @@
 export function selectBook(book) {
-// selectedBook is an ActionCreator, it needs to return an action, an object with a type property.
-return{
-type: 'BOOK_SELECTED',
-payload: book
-};
+  return{
+  type: 'BOOK_SELECTED',
+  payload: book
+  };
 }

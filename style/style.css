@@ -1,7 +1,3 @@
-.container {
-
-}
-
 /* first screen */
 .start {
 	margin-top: 40px;
@@ -10,28 +6,28 @@
 /* book list */
 
 .container ul  {
-	 margin-top: 40px;
-     width: 100%;
+    margin-top: 40px;
+    width: 100%;
 }
 
 .container  ul li {
     border: 2px solid black;
     padding: 20px 20px 20px 20px;
-     width: 100%;
+    width: 100%;
 }
 
 
 /* book details */
 
 .bookinfo {
-margin-top: 40px;
-padding: 20px 20px 20px 20px;
-border: 1px solid black;
+    margin-top: 40px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid black;
 }
 
 .title {
-	border: 1px solid black;
-	padding: 5px 5px 5px 5px;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
 }
 
 .rating {

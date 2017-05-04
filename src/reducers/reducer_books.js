@@ -1,5 +1,5 @@
-export default function(){
-    return[
+export default function() {
+    return [
         { title: 'War and Peace',
          description: 'War and Peace by Leo Tolstoy from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “If everyone fought for their own convictions there would be no war.” ― Leo Tolstoy, War and Peace War and Peace is an epic novel by Leo Tolstoy that explores the lives on individuals during the time of international conflict.',
          rating:'4/5'},
