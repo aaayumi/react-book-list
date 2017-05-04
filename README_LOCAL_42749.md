@@ -1,6 +1,5 @@
 # react-book-list
 
-<<<<<<< HEAD
 This is a simple app to show book titles, descriptions and ratings.
 
 Select a book from a list of books on the right sidebar.
@@ -24,10 +23,3 @@ Description and rating of a selected book will be shown on the left.
     "react-redux": "4.0.0",
     "react-router": "^2.0.1",
     "redux": "^3.6.0"
-=======
-You can select a book from the list on the right. Selected book show up on the left.Each book contains title, description, rating infromation. 
-
-
-## credit 
-This book list was made based on [ReduxSimpleStarter StephenGrider](https://github.com/StephenGrider/ReduxSimpleStarter) 
->>>>>>> eee7ad79b85dbe3b541fe6214340873de5946b55

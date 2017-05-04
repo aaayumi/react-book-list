@@ -12,11 +12,11 @@ export default class App extends Component {
         <div>
         <Grid>
         <Row>
-        <Col xs={12} md={8}>
+        <Col md={8}>
 
         <BookDetail /> </Col>
 
-         <Col lg={12} xs={4}><BookList /></Col>
+        <Col md={4}><BookList /></Col>
         
         </Row>
         </Grid>

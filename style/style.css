@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+SC|Playfair+Display');
+
 /* first screen */
 .start {
 	margin-top: 40px;
+    font-size: 30px;
+    font-family: "Playfair Display";
 }
 
 /* book list */
@@ -11,27 +15,41 @@
 }
 
 .container  ul li {
-    border: 2px solid black;
+    background-color: #FFCDD4;
+    margin-top:10px;
     padding: 20px 20px 20px 20px;
     width: 100%;
+    font-family: "Playfair Display";
+    text-align: center;
 }
 
+.container  ul li:hover {
+    background-color: #FF5169;
+}
 
 /* book details */
 
 .bookinfo {
     margin-top: 40px;
     padding: 20px 20px 20px 20px;
-    border: 1px solid black;
+    border: 1px solid #858283;
+    border-radius: 2em;
+    font-family: "Playfair Display";
+    background-color:  #FFF8E1;
 }
 
 .title {
-    border: 1px solid black;
+    border: 1px solid #858283;
+    border-radius: 1em;
     padding: 5px 5px 5px 5px;
+    font-family: "Cormorant SC";
+    background-color:  #FFCDD4;
+    text-align: center;
 }
 
 .rating {
 	margin-top:20px;
 	font-weight: bold;
 	font-size: 20px;
+    font-family: "Playfair Display";
 }
