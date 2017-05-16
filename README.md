@@ -8,8 +8,10 @@ Description and rating of a selected book will be shown on the left.
 
 
 ## Build 
+
  -You need npm on your computer. Run the command below and install dependencies.
  `$ npm install`
+ 
  - Start the project with below command.
  `$ npm start`
  
@@ -30,4 +32,4 @@ You can select a book from the list on the right. Selected book show up on the l
 
 ## credit 
 This book list was made based on [ReduxSimpleStarter StephenGrider](https://github.com/StephenGrider/ReduxSimpleStarter) 
->>>>>>> eee7ad79b85dbe3b541fe6214340873de5946b55
+
